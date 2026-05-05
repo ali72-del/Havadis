@@ -4,7 +4,7 @@ Havadis Haber Takip Programı
 KURULUM:
   1. Releases kısmından ilk kurulum dosyasını indirin sfx arşividir otomatik kurulum sağlar. 
   2. Havadis.exe dosyasını çalıştırın.
-  3. İlk acilista Ayarlar sekmesinden yapılandırın.
+  3. İlk acilista Ayarlar sekmesinden yapılandırın. Ayarlar alanında ayrıntılı bilgi bulunmaktadır.
   4. Tüm dosyalar aynı kkasörde olmalıdır.
 
 GUNCELLEME:
