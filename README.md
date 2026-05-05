@@ -2,16 +2,16 @@ Havadis Haber Takip Programı
 ========================================
 
 KURULUM:
-  1. Dosyaları istediğiniz bir konuma kopyalayın. Tüm dosyalar aynı kkasörde olmalıdır.
+  1. Releases kısmından ilk kurulum dosyasını indirin sfx arşividir otomatik kurulum sağlar. 
   2. Havadis.exe dosyasını çalıştırın.
   3. İlk acilista Ayarlar sekmesinden yapılandırın.
+  4. Tüm dosyalar aynı kkasörde olmalıdır.
 
 GUNCELLEME:
-  Sadece Havadis.exe dosyasini yenisiyle degistirin.
-  config.json dosyaniz korunur, ayarlariniz kaybolmaz.
+  Sadece Havadis.exe dosyasini yenisiyle degistirin. Güncelleme bildirimi programa gelecektir. Tek tıkla otomatik yapabilirsiniz.
+  config.json dosyaniz korunur, ayarlariniz kaybolmaz. Periyodik olarak yedeklemeniz önerilir.
 
 ONEMLI:
   * config.json dosyasını silmeyin (ayarlariniz buradadir).
-  * twitter.exe dosyasını silmeyin (Arama motoru).
-
+  
 Gelistirici: https://t.me/zalimpos
